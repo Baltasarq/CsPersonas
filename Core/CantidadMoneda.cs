@@ -44,12 +44,7 @@ namespace Personas.Core {
         /// Si se asigna, se asigna completamente 150 -> 1,50€
         /// </summary>
         public int ValorParteCentimos {
-            get {
-                return this.ValorCentimos % 100;
-            }
-            set {
-                this.ValorCentimos = value;
-            }
+            get { return this.ValorCentimos % 100; }
         }
         
         /// <summary>
