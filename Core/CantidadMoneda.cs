@@ -48,7 +48,7 @@ namespace Personas.Core {
                 return this.ValorCentimos % 100;
             }
             set {
-                this.ValorCentimos = value;
+                this.ValorCentimos = value * 100;
             }
         }
         
