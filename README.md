@@ -8,7 +8,7 @@ En la carpeta **Docs** hay un esquema que puede abrirse con [NClass](https://git
 
 ## Construcción
 
-Abrir la solución *Personas.xml* en un entorno de programación. Alternativamente, teniendo **Mono** o **.NETFramework** instalado, cambiar al directorio y construir con *msbuild*.
+Abrir la solución *Personas.xml* en un entorno de programación. Alternativamente, teniendo **Mono**, **.NETStandard** o **.NETFramework** instalado, cambiar al directorio y construir con *msbuild*.
 
 ```
 $ cd CsPersonas
