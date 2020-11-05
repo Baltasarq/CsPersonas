@@ -7,11 +7,11 @@ namespace Personas.Core {
             string email, string empresa, CantidadMoneda sueldo)
                 : base(dni, nombre, edad, email)
         {
-            this.Empresa = empresa;
+            this.Empresa = new Empresa( empresa );
             this.Sueldo = new CantidadMoneda( sueldo.ValorCentimos );
         }
 
-        public string Empresa {
+        public Empresa Empresa {
             get;
             set;
         }

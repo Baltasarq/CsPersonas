@@ -42,6 +42,7 @@
     <ItemGroup>
         <Compile Include="Core\CantidadMoneda.cs" />
         <Compile Include="Core\Empleado.cs" />
+        <Compile Include="Core\Empresa.cs" />
         <Compile Include="Core\Persona.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Ui\Program.cs" />
