@@ -47,6 +47,26 @@ namespace Personas.Ui {
             var p3 = new Persona( 3, "Fran", 18, "franjrm@uvigo.es" );
             var p4 = new Persona( 4, "Perico", 20, "perico@palotes.com"  );
 
+            /*if ( p1 is Empleado pp1 )
+            {
+                Console.WriteLine(pp1.Empresa);
+            }
+
+            var pp2 = p1 as Empleado;
+
+            if (pp2 != null)
+            {
+                Console.WriteLine(pp2.Edad);
+            }
+
+            switch (p1.GetType().ToString())
+            {
+                case "Personas.Core.Persona":
+                    break;
+                case "Personas.Core.Empleado":
+                    break;
+            }*/
+
             Console.WriteLine( "Persona: " + p1.ToString() );
 
             SavePersonas( "personas.xml", new[] {p1, p2, p3, p4} );
