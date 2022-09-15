@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personas>
+  <persona>
+    <nombre>Baltasar</nombre>
+    <dni>1</dni>
+    <edad>18</edad>
+    <email>jbgarcia@uvigo.es</email>
+  </persona>
+  <persona>
+    <nombre>Lourdes</nombre>
+    <dni>2</dni>
+    <edad>18</edad>
+    <email>lborrajo@uvigo.es</email>
+  </persona>
+  <persona>
+    <nombre>Fran</nombre>
+    <dni>3</dni>
+    <edad>18</edad>
+    <email>franjrm@uvigo.es</email>
+  </persona>
+  <persona>
+    <nombre>Perico</nombre>
+    <dni>4</dni>
+    <edad>20</edad>
+    <email>perico@palotes.com</email>
+  </persona>
+</personas>
