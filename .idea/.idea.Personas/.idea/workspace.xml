@@ -4,11 +4,29 @@
     <projectFile>Personas.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00f242d-5862-40ef-9ce6-73238c49d788" name="Default Changelist" comment="" />
+    <list default="true" id="e00f242d-5862-40ef-9ce6-73238c49d788" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Personas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Personas/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personas.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Personas.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Ui/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Dropbox/Docs/clases/DIA/pract/Personas/obj/Debug/net6.0/Personas.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,18 +38,25 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectId" id="1idWHvEyMuZO0MGaGwd7YX5uLji" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ui" />
-    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="Personas" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -63,37 +88,30 @@
       <workItem from="1602237866994" duration="62000" />
       <workItem from="1602238049022" duration="251000" />
       <workItem from="1602238346671" duration="82000" />
+      <workItem from="1663234883851" duration="171000" />
+      <workItem from="1663235119860" duration="822000" />
+      <workItem from="1663239507641" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="614" y="142" key="FileChooserDialogImpl" timestamp="1602238375856">
-      <screen x="22" y="0" width="1338" height="768" />
-    </state>
-    <state x="614" y="142" key="FileChooserDialogImpl/22.0.1338.768@22.0.1338.768" timestamp="1602238375856" />
-    <state width="1005" height="184" key="GridCell.Tab.0.bottom" timestamp="1602238428565">
-      <screen x="22" y="0" width="1338" height="768" />
-    </state>
-    <state width="1005" height="184" key="GridCell.Tab.0.bottom/22.0.1338.768@22.0.1338.768" timestamp="1602238428565" />
-    <state width="1005" height="184" key="GridCell.Tab.0.center" timestamp="1602238428563">
-      <screen x="22" y="0" width="1338" height="768" />
-    </state>
-    <state width="1005" height="184" key="GridCell.Tab.0.center/22.0.1338.768@22.0.1338.768" timestamp="1602238428563" />
-    <state width="1005" height="184" key="GridCell.Tab.0.left" timestamp="1602238428562">
-      <screen x="22" y="0" width="1338" height="768" />
-    </state>
-    <state width="1005" height="184" key="GridCell.Tab.0.left/22.0.1338.768@22.0.1338.768" timestamp="1602238428562" />
-    <state width="1005" height="184" key="GridCell.Tab.0.right" timestamp="1602238428564">
-      <screen x="22" y="0" width="1338" height="768" />
-    </state>
-    <state width="1005" height="184" key="GridCell.Tab.0.right/22.0.1338.768@22.0.1338.768" timestamp="1602238428564" />
   </component>
 </project>
